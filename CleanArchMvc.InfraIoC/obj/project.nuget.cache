@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5VFQ2HErXwK7GmKPRgFnvT/fYbGjPMGXVYrD5rkrxm0L68zvmr4t77OL/xfPQyMdYU1gl72rMvx2w8CMIJS3+w==",
+  "dgSpecHash": "TxdZGSuRdHATXXNU4ImPc8DjDSwFExTALO04pXtsAcZiCEjNtwbyEP+2Eu0JHcWRZ6bsjHHU0wiOA34AM8qRyw==",
   "success": true,
-  "projectFilePath": "/home/lindaines/Projetos/dotnet/curso_clean_arq_mvc/CleanArchMvc.InfraIoC/CleanArchMvc.InfraIoC.csproj",
+  "projectFilePath": "/home/lindaines/Projetos/dotnet/clean_arq_product_catalog/CleanArchMvc.InfraIoC/CleanArchMvc.InfraIoC.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

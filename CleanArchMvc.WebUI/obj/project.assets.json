@@ -88,11 +88,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/lindaines/Projetos/dotnet/curso_clean_arq_mvc/CleanArchMvc.WebUI/CleanArchMvc.WebUI.csproj",
+      "projectUniqueName": "/home/lindaines/Projetos/dotnet/clean_arq_product_catalog/CleanArchMvc.WebUI/CleanArchMvc.WebUI.csproj",
       "projectName": "CleanArchMvc.WebUI",
-      "projectPath": "/home/lindaines/Projetos/dotnet/curso_clean_arq_mvc/CleanArchMvc.WebUI/CleanArchMvc.WebUI.csproj",
+      "projectPath": "/home/lindaines/Projetos/dotnet/clean_arq_product_catalog/CleanArchMvc.WebUI/CleanArchMvc.WebUI.csproj",
       "packagesPath": "/home/lindaines/.nuget/packages/",
-      "outputPath": "/home/lindaines/Projetos/dotnet/curso_clean_arq_mvc/CleanArchMvc.WebUI/obj/",
+      "outputPath": "/home/lindaines/Projetos/dotnet/clean_arq_product_catalog/CleanArchMvc.WebUI/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/lindaines/.nuget/NuGet/NuGet.Config"
@@ -107,8 +107,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/home/lindaines/Projetos/dotnet/curso_clean_arq_mvc/CleanArchMvc.InfraIoC/CleanArchMvc.InfraIoC.csproj": {
-              "projectPath": "/home/lindaines/Projetos/dotnet/curso_clean_arq_mvc/CleanArchMvc.InfraIoC/CleanArchMvc.InfraIoC.csproj"
+            "/home/lindaines/Projetos/dotnet/clean_arq_product_catalog/CleanArchMvc.InfraIoC/CleanArchMvc.InfraIoC.csproj": {
+              "projectPath": "/home/lindaines/Projetos/dotnet/clean_arq_product_catalog/CleanArchMvc.InfraIoC/CleanArchMvc.InfraIoC.csproj"
             }
           }
         }

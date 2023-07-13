@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "spVbaWXpgoszZyrkbjen22dVNTMFhypAWGOCB9t3oI7mvn3LqRYPGZiEWttSrC2d69M6bnYu+cGNTkj8JLBo0Q==",
+  "dgSpecHash": "UknT+x65p7F/2iwpte488wGyDXkIepBB5fbPkhw0knWbr3mMrbtTunWYPBKSwiMID8J347aJrs8GyYiI2TTDGg==",
   "success": true,
-  "projectFilePath": "/home/lindaines/Projetos/dotnet/curso_clean_arq_mvc/CleanArchMvc.WebUI/CleanArchMvc.WebUI.csproj",
+  "projectFilePath": "/home/lindaines/Projetos/dotnet/clean_arq_product_catalog/CleanArchMvc.WebUI/CleanArchMvc.WebUI.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
