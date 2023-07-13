@@ -14,6 +14,33 @@ public class CategoryUnitTest1
         action.Should()
         .NotThrow<DomainExceptionValidation>();
     }
+
+    [Fact(DisplayName = "Create category with invalid id")]
+    public void CreateCategory_WithInvalidId_DomainExceptionInvalid()
+    {
+        Action action = () => new Category(-1, "CategoryName");
+        action.Should()
+        .Throw<DomainExceptionValidation>()
+        .WithMessage("Invalid id value");
+    }
+    
+    [Fact(DisplayName = "Create category with too short name")]
+    public void CreateCategory_WithTooShortName_DomainExceptionInvalid()
+    {
+        Action action = () => new Category(1, "Ca");
+        action.Should()
+        .Throw<DomainExceptionValidation>()
+        .WithMessage("Invalid name, too short, minimum 3 characters is required");
+    }
+    
+    [Fact(DisplayName = "Create category with missing name")]
+    public void CreateCategory_WithMissingName_DomainExceptionInvalid()
+    {
+        Action action = () => new Category(1, "");
+        action.Should()
+        .Throw<DomainExceptionValidation>()
+        .WithMessage("Invalid name.Name is required");
+    }
 }
 }
 
