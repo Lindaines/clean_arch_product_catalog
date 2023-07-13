@@ -1,0 +1,15 @@
+/home/lindaines/Projetos/dotnet/curso_clean_arq_mvc/CleanArchMvc.Application/bin/Debug/net6.0/CleanArchMvc.Application.deps.json
+/home/lindaines/Projetos/dotnet/curso_clean_arq_mvc/CleanArchMvc.Application/bin/Debug/net6.0/CleanArchMvc.Application.dll
+/home/lindaines/Projetos/dotnet/curso_clean_arq_mvc/CleanArchMvc.Application/bin/Debug/net6.0/CleanArchMvc.Application.pdb
+/home/lindaines/Projetos/dotnet/curso_clean_arq_mvc/CleanArchMvc.Application/obj/Debug/net6.0/CleanArchMvc.Application.csproj.AssemblyReference.cache
+/home/lindaines/Projetos/dotnet/curso_clean_arq_mvc/CleanArchMvc.Application/obj/Debug/net6.0/CleanArchMvc.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/lindaines/Projetos/dotnet/curso_clean_arq_mvc/CleanArchMvc.Application/obj/Debug/net6.0/CleanArchMvc.Application.AssemblyInfoInputs.cache
+/home/lindaines/Projetos/dotnet/curso_clean_arq_mvc/CleanArchMvc.Application/obj/Debug/net6.0/CleanArchMvc.Application.AssemblyInfo.cs
+/home/lindaines/Projetos/dotnet/curso_clean_arq_mvc/CleanArchMvc.Application/obj/Debug/net6.0/CleanArchMvc.Application.csproj.CoreCompileInputs.cache
+/home/lindaines/Projetos/dotnet/curso_clean_arq_mvc/CleanArchMvc.Application/obj/Debug/net6.0/CleanArchMvc.Application.dll
+/home/lindaines/Projetos/dotnet/curso_clean_arq_mvc/CleanArchMvc.Application/obj/Debug/net6.0/refint/CleanArchMvc.Application.dll
+/home/lindaines/Projetos/dotnet/curso_clean_arq_mvc/CleanArchMvc.Application/obj/Debug/net6.0/CleanArchMvc.Application.pdb
+/home/lindaines/Projetos/dotnet/curso_clean_arq_mvc/CleanArchMvc.Application/obj/Debug/net6.0/ref/CleanArchMvc.Application.dll
+/home/lindaines/Projetos/dotnet/curso_clean_arq_mvc/CleanArchMvc.Application/bin/Debug/net6.0/CleanArchMvc.Domain.dll
+/home/lindaines/Projetos/dotnet/curso_clean_arq_mvc/CleanArchMvc.Application/bin/Debug/net6.0/CleanArchMvc.Domain.pdb
+/home/lindaines/Projetos/dotnet/curso_clean_arq_mvc/CleanArchMvc.Application/obj/Debug/net6.0/CleanArchMvc.Application.csproj.CopyComplete
