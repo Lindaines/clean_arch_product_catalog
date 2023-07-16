@@ -2,7 +2,8 @@ using CleanArchMvc.Domain.Intefaces;
 using CleanArchMvc.Domain.Entities;
 using CleanArchMvc.Infra.Data.Context;
 using Microsoft.EntityFrameworkCore;
-
+using System.Collections.Generic;
+using System.Threading.Tasks;
 
 namespace CleanArchMvc.Infra.Data.Repository 
 {
